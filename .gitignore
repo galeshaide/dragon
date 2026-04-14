@@ -1,0 +1,7 @@
+backend/val/
+.venv/
+__pycache__/
+*.h5
+*.pth
+*.pkl
+.env
